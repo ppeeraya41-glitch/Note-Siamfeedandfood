@@ -1,0 +1,6 @@
+{
+  "name": "Fiscal Precision",
+  "description": "Personal finance and expense tracking app with Gmail / Google sign-in and Firebase Firestore synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
